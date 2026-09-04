@@ -5,7 +5,7 @@ let games = [];
 const catalogView = document.getElementById('catalog-view');
 const playerView = document.getElementById('player-view');
 const gamesGrid = document.getElementById('games-grid');
-const gameIframe = document.getElementById('game-iframe');
+const gameContainer = document.getElementById('game-container');
 const playingTitle = document.getElementById('playing-title');
 const aboutTitle = document.getElementById('about-title');
 const gameDescription = document.getElementById('game-description');
@@ -21,8 +21,7 @@ async function init() {
         console.error('Error loading games:', error);
         // Fallback data if fetch fails
         games = [
-            { id: "2048", title: "2048", description: "Join the numbers and get to the 2048 tile!", iframeUrl: "https://play2048.co/", thumbnail: "https://placehold.co/600x400/222/white?text=2048" },
-            { id: "tetris", title: "Tetris", description: "Classic block-stacking puzzle game.", iframeUrl: "https://tetris.com/play-tetris", thumbnail: "https://placehold.co/600x400/222/white?text=Tetris" }
+            { id: "2048", title: "2048", description: "Join the numbers and get to the 2048 tile!", iframe: "<iframe src=\"https://play2048.co/\" style=\"width:100%;height:100%;border:none;\" allowfullscreen></iframe>", thumbnail: "https://placehold.co/600x400/222/white?text=2048" }
         ];
         renderCatalog();
     }
@@ -58,7 +57,9 @@ function playGame(gameId) {
     playingTitle.textContent = game.title;
     aboutTitle.textContent = `About ${game.title}`;
     gameDescription.textContent = game.description;
-    gameIframe.src = game.iframeUrl;
+    
+    // Inject the raw iframe HTML string from JSON
+    gameContainer.innerHTML = game.iframe;
 
     // Switch Views
     catalogView.classList.add('hidden');
@@ -69,8 +70,8 @@ function playGame(gameId) {
 }
 
 function showCatalog() {
-    // Stop the game and clear src to prevent background audio/performance issues
-    gameIframe.src = "";
+    // Stop the game by clearing the container
+    gameContainer.innerHTML = "";
     
     // Switch Views
     playerView.classList.add('hidden');
