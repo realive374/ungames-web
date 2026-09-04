@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnail": "https://placehold.co/600x400/222/white?text=2048"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "Classic block-stacking puzzle game.",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "thumbnail": "https://placehold.co/600x400/222/white?text=Tetris"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Navigate the maze and eat all the dots.",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://placehold.co/600x400/222/white?text=Pac-Man"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Classic snake game.",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://placehold.co/600x400/222/white?text=Snake"
+  }
+]

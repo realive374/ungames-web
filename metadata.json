@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games",
+  "description": "A clean, basic website for playing unblocked games via iframes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
