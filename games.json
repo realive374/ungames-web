@@ -1,30 +1,177 @@
 [
   {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a series of slopes, avoiding obstacles and falling off the edge.",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://placehold.co/600x400/111/white?text=Slope"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "Manage your NFL team, coach your players, and win the Super Bowl in this retro-styled game.",
+    "iframeUrl": "https://game316311.konggames.com/gamez/0031/6311/live/index.html",
+    "thumbnail": "https://placehold.co/600x400/442/white?text=Retro+Bowl"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "description": "Run, jump, and float through a series of challenging tunnels in space.",
+    "iframeUrl": "https://lekugames.com/run-3/",
+    "thumbnail": "https://placehold.co/600x400/003/white?text=Run+3"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.lol",
+    "description": "A competitive third-person shooter where you build structures to outsmart your opponents.",
+    "iframeUrl": "https://1v1.lol/",
+    "thumbnail": "https://placehold.co/600x400/226/white?text=1v1.lol"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Navigate through a fast-paced tunnel, avoiding obstacles and surviving as long as possible.",
+    "iframeUrl": "https://tunnelrush.io/",
+    "thumbnail": "https://placehold.co/600x400/505/white?text=Tunnel+Rush"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "A bike racing game with challenging levels and amazing stunts.",
+    "iframeUrl": "https://games.poki.com/458762/moto-x3m",
+    "thumbnail": "https://placehold.co/600x400/f80/white?text=Moto+X3M"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The ultimate idle game where you bake billions of cookies.",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://placehold.co/600x400/630/white?text=Cookie+Clicker"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Conquer as much territory as possible in this addictive multiplayer game.",
+    "iframeUrl": "https://paper-io.com/",
+    "thumbnail": "https://placehold.co/600x400/08f/white?text=Paper.io+2"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer.",
+    "iframeUrl": "https://geometrydash.io/",
+    "thumbnail": "https://placehold.co/600x400/0f0/white?text=Geometry+Dash"
+  },
+  {
+    "id": "vex-4",
+    "title": "Vex 4",
+    "description": "A challenging stickman parkour game with many levels and obstacles.",
+    "iframeUrl": "https://vex4.io/",
+    "thumbnail": "https://placehold.co/600x400/333/white?text=Vex+4"
+  },
+  {
+    "id": "drive-mad",
+    "title": "Drive Mad",
+    "description": "A physics-based driving game where you must reach the finish line without crashing.",
+    "iframeUrl": "https://games.poki.com/458762/drive-mad",
+    "thumbnail": "https://placehold.co/600x400/d00/white?text=Drive+Mad"
+  },
+  {
+    "id": "eggy-car",
+    "title": "Eggy Car",
+    "description": "Drive a car with an egg on top and try not to break it!",
+    "iframeUrl": "https://eggycar.io/",
+    "thumbnail": "https://placehold.co/600x400/ff0/black?text=Eggy+Car"
+  },
+  {
+    "id": "monkey-mart",
+    "title": "Monkey Mart",
+    "description": "Manage your own supermarket as a cute monkey.",
+    "iframeUrl": "https://games.poki.com/458762/monkey-mart",
+    "thumbnail": "https://placehold.co/600x400/8b4/white?text=Monkey+Mart"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "description": "Live your life the way you want in this text-based life simulator.",
+    "iframeUrl": "https://bitlifeonline.io/",
+    "thumbnail": "https://placehold.co/600x400/f06/white?text=BitLife"
+  },
+  {
+    "id": "fireboy-watergirl",
+    "title": "Fireboy and Watergirl",
+    "description": "Control two characters and solve puzzles to reach the exit.",
+    "iframeUrl": "https://fireboy-watergirl.io/",
+    "thumbnail": "https://placehold.co/600x400/f44/white?text=Fireboy+%26+Watergirl"
+  },
+  {
     "id": "2048",
     "title": "2048",
     "description": "Join the numbers and get to the 2048 tile!",
     "iframeUrl": "https://play2048.co/",
-    "thumbnail": "https://placehold.co/600x400/222/white?text=2048"
+    "thumbnail": "https://placehold.co/600x400/edc/black?text=2048"
   },
   {
     "id": "tetris",
     "title": "Tetris",
     "description": "Classic block-stacking puzzle game.",
     "iframeUrl": "https://tetris.com/play-tetris",
-    "thumbnail": "https://placehold.co/600x400/222/white?text=Tetris"
+    "thumbnail": "https://placehold.co/600x400/00f/white?text=Tetris"
   },
   {
     "id": "pacman",
     "title": "Pac-Man",
     "description": "Navigate the maze and eat all the dots.",
     "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
-    "thumbnail": "https://placehold.co/600x400/222/white?text=Pac-Man"
+    "thumbnail": "https://placehold.co/600x400/ff0/black?text=Pac-Man"
   },
   {
     "id": "snake",
     "title": "Snake",
     "description": "Classic snake game.",
     "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
-    "thumbnail": "https://placehold.co/600x400/222/white?text=Snake"
+    "thumbnail": "https://placehold.co/600x400/080/white?text=Snake"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Help the chicken cross the road without getting hit.",
+    "iframeUrl": "https://crossyroad.io/",
+    "thumbnail": "https://placehold.co/600x400/eee/black?text=Crossy+Road"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Fly through the pipes and set a high score.",
+    "iframeUrl": "https://flappybird.io/",
+    "thumbnail": "https://placehold.co/600x400/5cf/white?text=Flappy+Bird"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "description": "The world's most advanced egg-based shooter.",
+    "iframeUrl": "https://shellshock.io/",
+    "thumbnail": "https://placehold.co/600x400/fff/black?text=Shell+Shockers"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "description": "Swallow everything in sight as a black hole.",
+    "iframeUrl": "https://hole-io.com/",
+    "thumbnail": "https://placehold.co/600x400/111/white?text=Hole.io"
+  },
+  {
+    "id": "agar-io",
+    "title": "Agar.io",
+    "description": "Eat smaller cells and avoid being eaten by larger ones.",
+    "iframeUrl": "https://agar.io/",
+    "thumbnail": "https://placehold.co/600x400/9cf/white?text=Agar.io"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Run as fast as you can through the subway tracks.",
+    "iframeUrl": "https://subwaysurfers.com/",
+    "thumbnail": "https://placehold.co/600x400/fa0/white?text=Subway+Surfers"
   }
 ]
